@@ -1,0 +1,65 @@
+--- Conférence Est ---
+Boston Celtics, Victoires Actuelles: 49, Matchs Restants: 19, Victoires Estimées: 15, Victoires Prévues: 64, W/L% Prévu: 0.780, Position Prévue: 1
+Milwaukee Bucks, Victoires Actuelles: 42, Matchs Restants: 17, Victoires Estimées: 11, Victoires Prévues: 53, W/L% Prévu: 0.646, Position Prévue: 2
+Cleveland Cavaliers, Victoires Actuelles: 41, Matchs Restants: 18, Victoires Estimées: 12, Victoires Prévues: 53, W/L% Prévu: 0.646, Position Prévue: 3
+New York Knicks, Victoires Actuelles: 37, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 4
+Orlando Magic, Victoires Actuelles: 37, Matchs Restants: 17, Victoires Estimées: 10, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 5
+Philadelphia 76ers, Victoires Actuelles: 36, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 46, W/L% Prévu: 0.561, Position Prévue: 6
+Indiana Pacers, Victoires Actuelles: 36, Matchs Restants: 17, Victoires Estimées: 9, Victoires Prévues: 45, W/L% Prévu: 0.549, Position Prévue: 7
+Miami Heat, Victoires Actuelles: 35, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 45, W/L% Prévu: 0.549, Position Prévue: 8
+Chicago Bulls, Victoires Actuelles: 31, Matchs Restants: 18, Victoires Estimées: 9, Victoires Prévues: 40, W/L% Prévu: 0.488, Position Prévue: 9
+Atlanta Hawks, Victoires Actuelles: 29, Matchs Restants: 18, Victoires Estimées: 8, Victoires Prévues: 37, W/L% Prévu: 0.451, Position Prévue: 10
+Brooklyn Nets, Victoires Actuelles: 26, Matchs Restants: 17, Victoires Estimées: 7, Victoires Prévues: 33, W/L% Prévu: 0.402, Position Prévue: 11
+Toronto Raptors, Victoires Actuelles: 23, Matchs Restants: 18, Victoires Estimées: 6, Victoires Prévues: 29, W/L% Prévu: 0.354, Position Prévue: 12
+Charlotte Hornets, Victoires Actuelles: 16, Matchs Restants: 18, Victoires Estimées: 4, Victoires Prévues: 20, W/L% Prévu: 0.244, Position Prévue: 13
+Washington Wizards, Victoires Actuelles: 11, Matchs Restants: 18, Victoires Estimées: 3, Victoires Prévues: 14, W/L% Prévu: 0.171, Position Prévue: 14
+Detroit Pistons, Victoires Actuelles: 10, Matchs Restants: 19, Victoires Estimées: 3, Victoires Prévues: 13, W/L% Prévu: 0.159, Position Prévue: 15
+
+--- Conférence Ouest ---
+Oklahoma City Thunder, Victoires Actuelles: 45, Matchs Restants: 18, Victoires Estimées: 13, Victoires Prévues: 58, W/L% Prévu: 0.707, Position Prévue: 1
+Denver Nuggets, Victoires Actuelles: 44, Matchs Restants: 18, Victoires Estimées: 12, Victoires Prévues: 56, W/L% Prévu: 0.683, Position Prévue: 2
+Minnesota Timberwolves, Victoires Actuelles: 44, Matchs Restants: 17, Victoires Estimées: 12, Victoires Prévues: 56, W/L% Prévu: 0.683, Position Prévue: 3
+Los Angeles Clippers, Victoires Actuelles: 41, Matchs Restants: 19, Victoires Estimées: 12, Victoires Prévues: 53, W/L% Prévu: 0.646, Position Prévue: 4
+New Orleans Pelicans, Victoires Actuelles: 39, Matchs Restants: 18, Victoires Estimées: 11, Victoires Prévues: 50, W/L% Prévu: 0.610, Position Prévue: 5
+Phoenix Suns, Victoires Actuelles: 37, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 6
+Sacramento Kings, Victoires Actuelles: 36, Matchs Restants: 19, Victoires Estimées: 11, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 7
+Dallas Mavericks, Victoires Actuelles: 36, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 46, W/L% Prévu: 0.561, Position Prévue: 8
+Los Angeles Lakers, Victoires Actuelles: 36, Matchs Restants: 16, Victoires Estimées: 9, Victoires Prévues: 45, W/L% Prévu: 0.549, Position Prévue: 9
+Golden State Warriors, Victoires Actuelles: 33, Matchs Restants: 19, Victoires Estimées: 10, Victoires Prévues: 43, W/L% Prévu: 0.524, Position Prévue: 10
+Houston Rockets, Victoires Actuelles: 29, Matchs Restants: 18, Victoires Estimées: 8, Victoires Prévues: 37, W/L% Prévu: 0.451, Position Prévue: 11
+Utah Jazz, Victoires Actuelles: 28, Matchs Restants: 18, Victoires Estimées: 8, Victoires Prévues: 36, W/L% Prévu: 0.439, Position Prévue: 12
+Memphis Grizzlies, Victoires Actuelles: 22, Matchs Restants: 17, Victoires Estimées: 6, Victoires Prévues: 28, W/L% Prévu: 0.341, Position Prévue: 13
+Portland Trail Blazers, Victoires Actuelles: 18, Matchs Restants: 19, Victoires Estimées: 5, Victoires Prévues: 23, W/L% Prévu: 0.280, Position Prévue: 14
+San Antonio Spurs, Victoires Actuelles: 14, Matchs Restants: 18, Victoires Estimées: 4, Victoires Prévues: 18, W/L% Prévu: 0.220, Position Prévue: 15
+
+--- Toutes les équipes ---
+Boston Celtics, Victoires Actuelles: 49, Matchs Restants: 19, Victoires Estimées: 15, Victoires Prévues: 64, W/L% Prévu: 0.780, Position Prévue: 1
+Oklahoma City Thunder, Victoires Actuelles: 45, Matchs Restants: 18, Victoires Estimées: 13, Victoires Prévues: 58, W/L% Prévu: 0.707, Position Prévue: 2
+Denver Nuggets, Victoires Actuelles: 44, Matchs Restants: 18, Victoires Estimées: 12, Victoires Prévues: 56, W/L% Prévu: 0.683, Position Prévue: 3
+Minnesota Timberwolves, Victoires Actuelles: 44, Matchs Restants: 17, Victoires Estimées: 12, Victoires Prévues: 56, W/L% Prévu: 0.683, Position Prévue: 4
+Milwaukee Bucks, Victoires Actuelles: 42, Matchs Restants: 17, Victoires Estimées: 11, Victoires Prévues: 53, W/L% Prévu: 0.646, Position Prévue: 5
+Cleveland Cavaliers, Victoires Actuelles: 41, Matchs Restants: 18, Victoires Estimées: 12, Victoires Prévues: 53, W/L% Prévu: 0.646, Position Prévue: 6
+Los Angeles Clippers, Victoires Actuelles: 41, Matchs Restants: 19, Victoires Estimées: 12, Victoires Prévues: 53, W/L% Prévu: 0.646, Position Prévue: 7
+New Orleans Pelicans, Victoires Actuelles: 39, Matchs Restants: 18, Victoires Estimées: 11, Victoires Prévues: 50, W/L% Prévu: 0.610, Position Prévue: 8
+New York Knicks, Victoires Actuelles: 37, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 9
+Orlando Magic, Victoires Actuelles: 37, Matchs Restants: 17, Victoires Estimées: 10, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 10
+Phoenix Suns, Victoires Actuelles: 37, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 11
+Sacramento Kings, Victoires Actuelles: 36, Matchs Restants: 19, Victoires Estimées: 11, Victoires Prévues: 47, W/L% Prévu: 0.573, Position Prévue: 12
+Philadelphia 76ers, Victoires Actuelles: 36, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 46, W/L% Prévu: 0.561, Position Prévue: 13
+Dallas Mavericks, Victoires Actuelles: 36, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 46, W/L% Prévu: 0.561, Position Prévue: 14
+Indiana Pacers, Victoires Actuelles: 36, Matchs Restants: 17, Victoires Estimées: 9, Victoires Prévues: 45, W/L% Prévu: 0.549, Position Prévue: 15
+Miami Heat, Victoires Actuelles: 35, Matchs Restants: 18, Victoires Estimées: 10, Victoires Prévues: 45, W/L% Prévu: 0.549, Position Prévue: 16
+Los Angeles Lakers, Victoires Actuelles: 36, Matchs Restants: 16, Victoires Estimées: 9, Victoires Prévues: 45, W/L% Prévu: 0.549, Position Prévue: 17
+Golden State Warriors, Victoires Actuelles: 33, Matchs Restants: 19, Victoires Estimées: 10, Victoires Prévues: 43, W/L% Prévu: 0.524, Position Prévue: 18
+Chicago Bulls, Victoires Actuelles: 31, Matchs Restants: 18, Victoires Estimées: 9, Victoires Prévues: 40, W/L% Prévu: 0.488, Position Prévue: 19
+Atlanta Hawks, Victoires Actuelles: 29, Matchs Restants: 18, Victoires Estimées: 8, Victoires Prévues: 37, W/L% Prévu: 0.451, Position Prévue: 20
+Houston Rockets, Victoires Actuelles: 29, Matchs Restants: 18, Victoires Estimées: 8, Victoires Prévues: 37, W/L% Prévu: 0.451, Position Prévue: 21
+Utah Jazz, Victoires Actuelles: 28, Matchs Restants: 18, Victoires Estimées: 8, Victoires Prévues: 36, W/L% Prévu: 0.439, Position Prévue: 22
+Brooklyn Nets, Victoires Actuelles: 26, Matchs Restants: 17, Victoires Estimées: 7, Victoires Prévues: 33, W/L% Prévu: 0.402, Position Prévue: 23
+Toronto Raptors, Victoires Actuelles: 23, Matchs Restants: 18, Victoires Estimées: 6, Victoires Prévues: 29, W/L% Prévu: 0.354, Position Prévue: 24
+Memphis Grizzlies, Victoires Actuelles: 22, Matchs Restants: 17, Victoires Estimées: 6, Victoires Prévues: 28, W/L% Prévu: 0.341, Position Prévue: 25
+Portland Trail Blazers, Victoires Actuelles: 18, Matchs Restants: 19, Victoires Estimées: 5, Victoires Prévues: 23, W/L% Prévu: 0.280, Position Prévue: 26
+Charlotte Hornets, Victoires Actuelles: 16, Matchs Restants: 18, Victoires Estimées: 4, Victoires Prévues: 20, W/L% Prévu: 0.244, Position Prévue: 27
+San Antonio Spurs, Victoires Actuelles: 14, Matchs Restants: 18, Victoires Estimées: 4, Victoires Prévues: 18, W/L% Prévu: 0.220, Position Prévue: 28
+Washington Wizards, Victoires Actuelles: 11, Matchs Restants: 18, Victoires Estimées: 3, Victoires Prévues: 14, W/L% Prévu: 0.171, Position Prévue: 29
+Detroit Pistons, Victoires Actuelles: 10, Matchs Restants: 19, Victoires Estimées: 3, Victoires Prévues: 13, W/L% Prévu: 0.159, Position Prévue: 30
