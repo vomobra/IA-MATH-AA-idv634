@@ -1,9 +1,9 @@
 1. Detroit Pistons
-2. San Antonio Spurs
-3. Charlotte Hornets
-4. Memphis Grizzlies
+2. Portland Trail Blazers
+3. Memphis Grizzlies
+4. Charlotte Hornets
 5. Washington Wizards
-6. Portland Trail Blazers
+6. San Antonio Spurs
 7. Toronto Raptors
 8. Brooklyn Nets
 9. Utah Jazz
